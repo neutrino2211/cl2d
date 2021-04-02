@@ -1,2 +1,2 @@
 # cl2d
-A 2d game engine written made with OpenCL
+A 2d game engine made with OpenCL
