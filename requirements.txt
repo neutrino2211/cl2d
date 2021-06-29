@@ -1,1 +1,3 @@
 pyopencl
+opencv-python
+pillow
